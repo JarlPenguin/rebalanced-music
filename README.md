@@ -1,5 +1,5 @@
 # Rebalanced Music
-Tweaked version of [Balanced Music](https://modrinth.com/resourcepack/balanced-music).
+Tweaked version of [Balanced Music](https://modrinth.com/resourcepack/balanced-music). Older tracks now have an equal chance of playing compared to newer tracks (where applicable).
 
 Yeets the non-menu music from the menu, and balances the weight of newer music. The new music is great, but it plays instead of the old tracks far too often. Seriously, why does So Below have a weight of 7?
 ### Important:
