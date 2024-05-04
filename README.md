@@ -1,7 +1,7 @@
 # Rebalanced Music
 Tweaked version of [Balanced Music](https://modrinth.com/resourcepack/balanced-music). Older tracks now have an equal chance of playing compared to newer tracks (where applicable).
 
-Yeets the non-menu music from the menu, and balances the weight of newer music. The new music is great, but it plays instead of the old tracks far too often. Seriously, why does So Below have a weight of 7?
+Yeets the non-menu music from the menu, and evens out the weight of newer music. The new music is great, but it plays instead of the old tracks far too often. Seriously, why does Rubedo have a weight of 6?
 ### Important:
 
 If you have other resource packs that change music or sounds, put them above this. This pack uses the `replace` option to remove music, and will remove any music added if placed above that pack.
@@ -63,4 +63,13 @@ If you have other resource packs that change music or sounds, put them above thi
   Stony Peaks:
   * **Eld Unknown 2 -> 1 (1.21+)**
   * Stand Tall weight 2 -> 1 (1.18+)
+</details>
+<details>
+<summary>Versioning scheme</summary>
+  
+  The version number consists of the minimum supported stable Minecraft: Java Edition version followed by the iteration of the resource pack. If there is no supported stable Minecraft: Java Edition version, then the minimum supported Minecraft: Java Edition version is used instead.
+
+  For example, version 1.16.2 v1 means that it is the first iteration of the resource pack to support at least Minecraft: Java Edition version 1.16.2. Meanwhile, version 21w39a v2 means that it is the second iteration of the resource pack to support at least Minecraft: Java Edition version 21w39a.
+
+  The maximum supported Minecraft: Java Edition version is specified in the changelog of the respective resource pack version.
 </details>
