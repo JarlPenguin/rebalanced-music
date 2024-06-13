@@ -27,18 +27,18 @@ If you have other resource packs that change music or sounds, put them above thi
   Cherry Grove:
   * Bromeliad weight 3 -> 1 (1.20+)
   * Echo in the Wind weight 3 -> 1 (1.20+)
-  * **Featherfall 3 -> 1 (1.21+)**
+  * Featherfall 3 -> 1 (1.21+)
   
   Desert: Crescent Dunes weight 3 -> 1 (1.20+)
   
   Dripstone Caves:
-  * **Eld Unknown 2 -> 1 (1.21+)**
-  * **Endless 2 -> 1 (1.21+)**
-  * **pokopoko 2 -> 1 (1.21+)**
+  * Eld Unknown 2 -> 1 (1.21+)
+  * Endless 2 -> 1 (1.21+)
+  * pokopoko 2 -> 1 (1.21+)
   * Wending weight 2 -> 1 (1.18+)
   
   Flower Forest:
-  * **Featherfall 2 -> 1 (1.21+)**
+  * Featherfall 2 -> 1 (1.21+)
 
   Frozen Peaks: Stand Tall weight 2 -> 1 (1.18+)
   
@@ -61,7 +61,7 @@ If you have other resource packs that change music or sounds, put them above thi
   Sparse Jungle: Bromeliad weight 2 -> 1 (1.20+)
 
   Stony Peaks:
-  * **Eld Unknown 2 -> 1 (1.21+)**
+  * Eld Unknown 2 -> 1 (1.21+)
   * Stand Tall weight 2 -> 1 (1.18+)
 </details>
 <details>
