@@ -67,9 +67,9 @@ If you have other resource packs that change music or sounds, put them above thi
 <details>
 <summary>Versioning scheme</summary>
   
-  The version number consists of the minimum supported stable Minecraft: Java Edition version followed by the iteration of the resource pack. If there is no supported stable Minecraft: Java Edition version, then the minimum supported Minecraft: Java Edition version is used instead.
+  The version name consists of the minimum supported stable Minecraft: Java Edition version followed by the iteration of the resource pack for that version of Minecraft: Java Edition. If there is no supported stable Minecraft: Java Edition version, then the minimum supported Minecraft: Java Edition version is used instead.
 
   For example, version 1.16.2 v1 means that it is the first iteration of the resource pack to support at least Minecraft: Java Edition version 1.16.2. Meanwhile, version 21w39a v2 means that it is the second iteration of the resource pack to support at least Minecraft: Java Edition version 21w39a.
 
-  The maximum supported Minecraft: Java Edition version is specified in the changelog of the respective resource pack version.
+  The maximum supported Minecraft: Java Edition version is specified in the changelog of the respective version of the resource pack.
 </details>
