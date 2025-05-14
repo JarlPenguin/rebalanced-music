@@ -8,7 +8,11 @@ If you have other resource packs that change music or sounds, put them above thi
 <details>
 <summary>Changes</summary>
   
-  Entries highlighted in **bold** are subject to change.
+  Entries in **bold** are subject to change.
+  
+  Entries in _italics_ are not applicable as of the latest Minecraft: Java Edition snapshot.
+  
+  Entries in ~~strikethrough~~ are not applicable as of the latest stable Minecraft: Java Edition version.
   
   Menu Music: Menu Music + Update Music -> Menu Music (1.18+)
   
@@ -26,12 +30,12 @@ If you have other resource packs that change music or sounds, put them above thi
   
   Cherry Grove:
   * **Below and Above weight 2 -> 1 (1.21.6+)**
-  * Bromeliad weight 3 -> 1 (1.20-1.21.5)
-  * Echo in the Wind weight 3 -> 1 (1.20-1.21.5)
-  * Featherfall 3 -> 1 (1.21-1.21.5)
+  * _Bromeliad weight 3 -> 1 (1.20-1.21.5)_
+  * _Echo in the Wind weight 3 -> 1 (1.20-1.21.5)_
+  * _Featherfall 3 -> 1 (1.21-1.21.5)_
   
   Desert:
-  * Crescent Dunes weight 3 -> 1 (1.20-1.21.5)
+  * _Crescent Dunes weight 3 -> 1 (1.20-1.21.5)_
   * **Fireflies weight 2 -> 1 (1.21.6+)**
   
   Dripstone Caves:
@@ -49,11 +53,11 @@ If you have other resource packs that change music or sounds, put them above thi
   **Grove: Lilypad weight 2 -> 1 (1.21.6+)**
   
   Lush Caves:
-  * Aerie weight 1 -> 2 (1.19-1.21.5)
-  * Firebugs weight 1 -> 2 (1.19-1.21.5)
-  * Labyrinthine weight 1 -> 2 (1.19-1.21.5)
-  * Left To Bloom weight 2 -> 1 (1.18)
-  * Left To Bloom weight 4 -> 2 (1.19-1.21.5)
+  * _Aerie weight 1 -> 2 (1.19-1.21.5)_
+  * _Firebugs weight 1 -> 2 (1.19-1.21.5)_
+  * _Labyrinthine weight 1 -> 2 (1.19-1.21.5)_
+  * ~~_Left To Bloom weight 2 -> 1 (1.18)_~~
+  * _Left To Bloom weight 4 -> 2 (1.19-1.21.5)_
   * **O's Piano weight 2 -> 1 (1.21.6+)**
   
   Jungle: Bromeliad weight 3 -> 1 (1.20+)
