@@ -25,11 +25,14 @@ If you have other resource packs that change music or sounds, put them above thi
   Bamboo Jungle: Bromeliad weight 2 -> 1 (1.20+)
   
   Cherry Grove:
-  * Bromeliad weight 3 -> 1 (1.20+)
-  * Echo in the Wind weight 3 -> 1 (1.20+)
-  * Featherfall 3 -> 1 (1.21+)
+  * **Below and Above weight 2 -> 1 (1.21.6+)**
+  * Bromeliad weight 3 -> 1 (1.20-1.21.5)
+  * Echo in the Wind weight 3 -> 1 (1.20-1.21.5)
+  * Featherfall 3 -> 1 (1.21-1.21.5)
   
-  Desert: Crescent Dunes weight 3 -> 1 (1.20+)
+  Desert:
+  * Crescent Dunes weight 3 -> 1 (1.20-1.21.5)
+  * **Fireflies weight 2 -> 1 (1.21.6+)**
   
   Dripstone Caves:
   * Eld Unknown weight 2 -> 1 (1.21+)
@@ -37,17 +40,21 @@ If you have other resource packs that change music or sounds, put them above thi
   * pokopoko weight 2 -> 1 (1.21+)
   * Wending weight 2 -> 1 (1.18+)
   
-  Flower Forest:
-  * Featherfall weight 2 -> 1 (1.21+)
-
+  Flower Forest: Featherfall weight 2 -> 1 (1.21+)
+  
+  **Forest: Broken Clocks weight 2 -> 1 (1.21.6+)**
+  
   Frozen Peaks: Stand Tall weight 2 -> 1 (1.18+)
   
+  **Grove: Lilypad weight 2 -> 1 (1.21.6+)**
+  
   Lush Caves:
+  * Aerie weight 1 -> 2 (1.19-1.21.5)
+  * Firebugs weight 1 -> 2 (1.19-1.21.5)
+  * Labyrinthine weight 1 -> 2 (1.19-1.21.5)
   * Left To Bloom weight 2 -> 1 (1.18)
-  * Left To Bloom weight 4 -> 2 (1.19+)
-  * Aerie weight 1 -> 2 (1.19+)
-  * Firebugs weight 1 -> 2 (1.19+)
-  * Labyrinthine weight 1 -> 2 (1.19+)
+  * Left To Bloom weight 4 -> 2 (1.19-1.21.5)
+  * **O's Piano weight 2 -> 1 (1.21.6+)**
   
   Jungle: Bromeliad weight 3 -> 1 (1.20+)
 
