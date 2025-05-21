@@ -1,7 +1,7 @@
 {
   "pack": {
     "pack_format": 56,
-    "supported_formats": {"min_inclusive": 56, "max_inclusive": 61},
+    "supported_formats": {"min_inclusive": 56, "max_inclusive": 62},
     "description": "Rearranged arrangments"
     }
 }
