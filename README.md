@@ -56,7 +56,7 @@ If you have other resource packs that change music or sounds, put them above thi
   * _Aerie weight 1 -> 2 (1.19-1.21.5)_
   * _Firebugs weight 1 -> 2 (1.19-1.21.5)_
   * _Labyrinthine weight 1 -> 2 (1.19-1.21.5)_
-  * ~~_Left To Bloom weight 2 -> 1 (1.18)_~~
+  * ~~_Left To Bloom weight 2 -> 1 (1.18-1.18.2)_~~
   * _Left To Bloom weight 4 -> 2 (1.19-1.21.5)_
   * **O's Piano weight 2 -> 1 (1.21.6+)**
   
