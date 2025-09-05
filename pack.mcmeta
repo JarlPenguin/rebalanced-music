@@ -3,7 +3,7 @@
     "pack_format": 56,
     "supported_formats": [56, 64],
     "min_format": 56,
-    "max_format": 66,
+    "max_format": 68,
     "description": "Rearranged arrangments"
     }
 }
