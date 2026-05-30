@@ -8,11 +8,18 @@ If you have other resource packs that change music or sounds, put them above thi
 <details>
 <summary>Changes</summary>
   
-  Entries in **bold** are subject to change.
+  Entries in **bold** are exclusive to the latest Minecraft: Java Edition snapshots and are subject to change.
   
-  Entries in _italics_ are not applicable as of the latest Minecraft: Java Edition snapshot.
+  Entries in _italics_ are not applicable as of the latest Minecraft: Java Edition snapshots and are subject to change.
   
-  Entries in ~~strikethrough~~ are not applicable as of the latest stable Minecraft: Java Edition version.
+  Entries in ~~strikethrough~~ are not applicable as of the latest stable Minecraft: Java Edition version and snapshots.
+
+  Game Music:
+  * **Ebb weight 2 -> 1 (26.2+)**
+  * **House weight 2 -> 1 (26.2+)**
+  * **Memories weight 2 -> 1 (26.2+)**
+  * **Nightly weight 2 -> 1 (26.2+)**
+  * **Shores weight 2 -> 1 (26.2+)**
   
   Menu Music: Menu Music + Update Music -> Menu Music (1.18+)
   
@@ -24,56 +31,99 @@ If you have other resource packs that change music or sounds, put them above thi
   
   Soul Sand Valley: So Below weight 7 -> 1 (1.16+)
   
-  Badlands: Crescent Dunes weight 2 -> 1 (1.20+)
+  Badlands:
+  * **Memories weight 2 -> 1 (26.2+)**
+  * _Crescent Dunes weight 2 -> 1 (1.20-26.1.2)_
   
-  Bamboo Jungle: Bromeliad weight 2 -> 1 (1.20+)
+  Bamboo Jungle:
+  * **Home weight 2 -> 1 (26.2+)**
+  * _Bromeliad weight 2 -> 1 (1.20-26.1.2)_
   
   Cherry Grove:
-  * Below and Above weight 2 -> 1 (1.21.6+)
-  * ~~_Bromeliad weight 3 -> 1 (1.20-1.21.5)_~~
-  * ~~_Echo in the Wind weight 3 -> 1 (1.20-1.21.5)_~~
-  * ~~_Featherfall 3 -> 1 (1.21-1.21.5)_~~
+  * **Home weight 2 -> 1 (26.2+)**
+  * **Memories weight 2 -> 1 (26.2+)**
+  * **Nightly weight 2 -> 1 (26.2+)**
+  * _Below and Above weight 2 -> 1 (1.21.6-26.1.2)_
+  * ~~Bromeliad weight 3 -> 1 (1.20-1.21.5)~~
+  * ~~Echo in the Wind weight 3 -> 1 (1.20-1.21.5)~~
+  * ~~Featherfall 3 -> 1 (1.21-1.21.5)~~
   
   Desert:
-  * ~~_Crescent Dunes weight 3 -> 1 (1.20-1.21.5)_~~
-  * Fireflies weight 2 -> 1 (1.21.6+)
+  * **Memories weight 2 -> 1 (26.2+)**
+  * _Fireflies weight 2 -> 1 (1.21.6-26.1.2)_
+  * ~~Crescent Dunes weight 3 -> 1 (1.20-1.21.5)~~
   
   Dripstone Caves:
-  * Eld Unknown weight 2 -> 1 (1.21+)
-  * Endless weight 2 -> 1 (1.21+)
-  * pokopoko weight 2 -> 1 (1.21+)
-  * Wending weight 2 -> 1 (1.18+)
+  * **Ebb weight 2 -> 1 (26.2+)**
+  * **Nightly weight 2 -> 1 (26.2+)**
+  * **Shores weight 2 -> 1 (26.2+)**
+  * _Eld Unknown weight 2 -> 1 (1.21-26.1.2)_
+  * _Endless weight 2 -> 1 (1.21-26.1.2)_
+  * _pokopoko weight 2 -> 1 (1.21-26.1.2)_
+  * _Wending weight 2 -> 1 (1.18-26.1.2)_
   
-  Flower Forest: Featherfall weight 2 -> 1 (1.21+)
+  Flower Forest:
+  * **Memories weight 2 -> 1 (26.2+)**
+  * **Shores weight 2 -> 1 (26.2+)**
+  * _Featherfall weight 2 -> 1 (1.21-26.1.2)_
   
-  Forest: Broken Clocks weight 2 -> 1 (1.21.6+)
+  Forest:
+  * **Memories weight 2 -> 1 (26.2+)**
+  * **Shores weight 2 -> 1 (26.2+)**
+  * _Broken Clocks weight 2 -> 1 (1.21.6-26.1.2)_
   
-  Frozen Peaks: Stand Tall weight 2 -> 1 (1.18+)
+  Frozen Peaks:
+  * **Ebb weight 2 -> 1 (26.2+)**
+  * **Home weight 2 -> 1 (26.2+)**
+  * **Nightly weight 2 -> 1 (26.2+)**
+  * _Stand Tall weight 2 -> 1 (1.18-26.1.2)_
   
-  Grove: Lilypad weight 2 -> 1 (1.21.6+)
+  Grove:
+  * **Shores weight 2 -> 1 (26.2+)**
+  * _Lilypad weight 2 -> 1 (1.21.6-26.1.2)_
+  
+  Jagged Peaks:
+  * **Ebb weight 2 -> 1 (26.2+)**
+  * **Nightly weight 2 -> 1 (26.2+)**
+  
+  Jungle:
+  * **Home weight 2 -> 1 (26.2+)**
+  * _Bromeliad weight 3 -> 1 (1.20-26.1.2)_
   
   Lush Caves:
-  * ~~_Aerie weight 1 -> 2 (1.19-1.21.5)_~~
-  * ~~_Firebugs weight 1 -> 2 (1.19-1.21.5)_~~
-  * ~~_Labyrinthine weight 1 -> 2 (1.19-1.21.5)_~~
-  * ~~_Left To Bloom weight 2 -> 1 (1.18-1.18.2)_~~
-  * ~~_Left To Bloom weight 4 -> 2 (1.19-1.21.5)_~~
-  * O's Piano weight 2 -> 1 (1.21.6+)
-  
-  Jungle: Bromeliad weight 3 -> 1 (1.20+)
+  * **Shores weight 2 -> 1 (26.2+)**
+  * _O's Piano weight 2 -> 1 (1.21.6-26.1.2)_
+  * ~~Aerie weight 1 -> 2 (1.19-1.21.5)~~
+  * ~~Firebugs weight 1 -> 2 (1.19-1.21.5)~~
+  * ~~Labyrinthine weight 1 -> 2 (1.19-1.21.5)~~
+  * ~~Left To Bloom weight 2 -> 1 (1.18-1.18.2)~~
+  * ~~Left To Bloom weight 4 -> 2 (1.19-1.21.5)~~
 
-  Meadow: One More Day weight 2 -> 1 (1.18+)
+  Meadow:
+  * **Home weight 2 -> 1 (26.2+)**
+  * One More Day weight 2 -> 1 (1.18+)
   
   Old Growth Taiga:
-  * Aerie weight 1 -> 3 (1.19+)
-  * Firebugs weight 1 -> 3 (1.19+)
-  * Labyrinthine weight 1 -> 3 (1.19+)
+  * **Shores weight 2 -> 1 (26.2+)**
+  * _Aerie weight 1 -> 3 (1.19-26.1.2)_
+  * _Firebugs weight 1 -> 3 (1.19-26.1.2)_
+  * _Labyrinthine weight 1 -> 3 (1.19-26.1.2)_
   
-  Sparse Jungle: Bromeliad weight 2 -> 1 (1.20+)
+  Snowy Slopes: **Nightly weight 2 -> 1 (26.2+)**
+  
+  Sparse Jungle:
+  * **Home weight 2 -> 1 (26.2+)**
+  * _Bromeliad weight 2 -> 1 (1.20-26.1.2)_
 
   Stony Peaks:
-  * Eld Unknown weight 2 -> 1 (1.21+)
-  * Stand Tall weight 2 -> 1 (1.18+)
+  * **Nightly weight 2 -> 1 (26.2+)**
+  * _Eld Unknown weight 2 -> 1 (1.21-26.1.2)_
+  * _Stand Tall weight 2 -> 1 (1.18-26.1.2)_
+  
+  Sulfur Caves:
+  * **Ebb weight 2 -> 1 (26.2+)**
+  * **Nightly weight 2 -> 1 (26.2+)**
+  * **Shores weight 2 -> 1 (26.2+)**
 </details>
 <details>
 <summary>Versioning scheme</summary>
